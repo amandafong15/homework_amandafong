@@ -1,0 +1,140 @@
+body {
+  /* Margin bottom by footer height */
+  	margin-bottom: 60px;
+  	font-family: Lato;
+}
+
+footer {
+  bottom: 0;
+  height: 60px;
+  color: #888B8D;
+  padding-left: 5%;
+}
+
+.navbar.transparent.navbar-inverse .navbar-inner {
+  background: transparent;
+  padding-top: 10px;
+}
+
+.watch{
+	color: #2979FF;
+}
+
+a{
+	color: #B3B3B3;
+	font-weight: 200;
+}
+
+.watchvideo{
+	color: #2979FF;
+	padding-right: 10px;
+}
+
+#marquee{
+	padding-top: 30px;
+}
+.img-thumbnail, .thumbnail {
+	margin-bottom: 20px;
+	box-shadow: 0 0px 0px rgba(0,0,0,.075);
+	-webkit-box-shadow: 0 0px 0px rgba(0,0,0,.075);
+}
+
+.phone{
+	padding-left: 10px;
+}
+#logo{
+	height: 35px;
+	border: 0px;
+	padding-top: 0px;
+	padding-bottom: 10px;
+}
+
+button{
+	color: white;
+	background-color: #2979FF;
+	border: 0px;
+	border-radius: 2px;
+	padding: 5px 10px 5px 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.img-thumbnail, .thumbnail {
+    margin-bottom: 20px;
+    padding: 0px;
+    margin: 0 auto;
+    text-align: center;
+    border: 0px solid #ddd;
+    border-radius: 0px;
+}
+
+h1{
+	color: #888B8D;
+	font-size: 36px;
+	font-weight: 200;
+	padding-top: 100px;
+	padding-bottom: 10px;
+}
+
+h2{
+	text-align: center;
+	color: #888B8D;
+	font-size: 32px;
+	font-weight: 200;
+	padding-top: 20px;
+}
+
+h3{
+	text-align: left;
+	color: #888B8D;
+	font-size: 20px;
+	font-weight: 400;
+	padding-top: 20px;
+	padding-left: 50px;
+}
+
+h3{
+	text-align: left;
+	color: #888B8D;
+	font-size: 20px;
+	font-weight: 400;
+	padding-top: 20px;
+	padding-left: 50px;
+}
+
+p{
+	color: #888B8D;
+	font-weight: 200;
+	width: 90%;
+	font-size: 16px;
+	margin-bottom: 20px;
+	line-height: 24px;
+}
+
+.info{
+	text-align: left;
+	padding-left: 50px;
+}
+
+#section{
+	background-image: url("https://storage.googleapis.com/madebygoog/v1/phone/phone-poster-3.jpg?1");
+}
+
+.infosection{
+	padding-top: 125px;
+}
+
+
+.resources{
+	background-color: #FAFAFA;
+	height: 150px;
+	align-items: center;
+	margin-bottom: 20px;
+	vertical-align: text-top;
+}
+
+.footer-icon, .footer-links{
+	padding-left: 10px;
+}
+
+
